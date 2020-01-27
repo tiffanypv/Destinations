@@ -1,0 +1,97 @@
+/* .un{
+    color: red;
+}
+.deux{
+    color: royalblue;
+}
+.trois{
+    color: springgreen;
+}
+#petit {
+    color: violet;
+}
+#grand{
+    color: maroon; */
+
+/* .hey{
+    background-color:grey;
+    font-weight: bold
+} */
+/* p{
+    color: lawngreen;
+}
+.para1{
+    color: red;
+}
+#noir{
+    color: green;
+}
+span{
+    color: indigo;
+}
+head{
+    font-family: "ibarra real nova";sans-serif
+} */
+
+h1{
+    text-align: center;
+}
+
+.voyage li{
+    background-color: lightcoral;
+    text-align: center;
+    margin: 20px;
+    display: inline;
+    list-style-type: none;
+}
+.voyage{
+    text-align: center;
+}
+
+.un{
+    text-align: center;
+}
+h2{
+    background-color:lightcoral;
+    text-align: center;
+    width: 10%;
+}
+h3{
+    background-color: lightcoral;
+    text-align: center;
+    width: 10%;
+}
+h4{
+    background-color: lightcoral;
+    text-align: center;
+    width: 10%;
+}
+.un{
+    text-align: center;
+}
+.deux{
+    text-align: center;
+}
+.trois{
+    text-align: center;
+}
+h5{
+    text-align: center;
+    background-color: lightcoral;
+    
+}
+.point{
+    background-color: cadetblue;
+}
+.virgule{
+    background-color: indianred;
+}
+.container{
+    background-color: yellow;
+    color: red;
+    width: 450px;
+    height: 200px;
+    margin: 250px;
+    padding: 150px 60px 80px 90px
+    border: 4px solid black;
+}
